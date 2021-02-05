@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
@@ -22,7 +17,3 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/micael-dos-santos-almeida/" target="_blank"><img align="center" src="https://github.com/WaylonWalker/WaylonWalker/raw/main/icon/linkedin.png?raw=true" height="50" width="50" /></a>
 </p>
-<br>
-<br>
-<br>
-
